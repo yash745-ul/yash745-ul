@@ -4,10 +4,6 @@
 B.Tech Computer Science Engineering Student | Chitkara University
 </h3>
 
-<p align="center">
-💻 Passionate about Programming • 🌐 Web Development • 🤖 Artificial Intelligence • 🚀 Open Source
-</p>
-
 ---
 
 ## 👨‍💻 About Me
