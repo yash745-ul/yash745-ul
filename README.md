@@ -25,8 +25,6 @@ B.Tech Computer Science Engineering Student | Chitkara University
 
 📍 India
 
-📚 2nd Year Student
-
 🌱 Learning DSA & Web Development
 
 💻 C • Java • Python
@@ -78,23 +76,6 @@ B.Tech Computer Science Engineering Student | Chitkara University
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yash745-ul&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash745-ul&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash745-ul&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🌱 Currently Learning
 
