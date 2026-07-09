@@ -37,7 +37,7 @@ B.Tech Computer Science Engineering Student | Chitkara University
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a 2nd-year B.Tech Computer Science Engineering student.
+- 🎓 I'm a B.Tech Computer Science Engineering student.
 - 💻 I enjoy solving coding problems and building projects.
 - 🌱 Currently learning **Data Structures & Algorithms** and **Web Development**.
 - 🚀 Interested in **Artificial Intelligence**, **Software Development**, and **Open Source**.
@@ -120,7 +120,6 @@ B.Tech Computer Science Engineering Student | Chitkara University
 
 📧 **Email:** **hemendrasingh88745@gmail.com**
 
-💼 **LinkedIn:** YOUR_LINKEDIN_URL
 
 ---
 
