@@ -5,51 +5,23 @@ B.Tech Computer Science Engineering Student | Chitkara University
 </h3>
 
 <p align="center">
-💻 Passionate about Programming • 🌐 Web Development • 🤖 AI • 🚀 Open Source
+💻 Passionate about Programming • 🌐 Web Development • 🤖 Artificial Intelligence • 🚀 Open Source
 </p>
 
 ---
 
-<table>
-<tr>
-
-<td width="30%" align="center">
-
-<img src="https://avatars.githubusercontent.com/yash745-ul" width="180"/>
-
-### Hemendra Singh
-
-🎓 **B.Tech CSE**
-
-🏫 Chitkara University
-
-📍 India
-
-🌱 Learning DSA & Web Development
-
-💻 C • Java • Python
-
-</td>
-
-<td width="70%">
-
 ## 👨‍💻 About Me
 
-- 🎓 I'm a B.Tech Computer Science Engineering student.
+- 🎓 I'm a B.Tech Computer Science Engineering student at **Chitkara University**.
 - 💻 I enjoy solving coding problems and building projects.
 - 🌱 Currently learning **Data Structures & Algorithms** and **Web Development**.
 - 🚀 Interested in **Artificial Intelligence**, **Software Development**, and **Open Source**.
 - 📚 I believe in learning by building real-world projects.
 - 🎯 My goal is to become a skilled Software Engineer.
 
-</td>
-
-</tr>
-</table>
-
 ---
 
-# 💻 Skills
+## 💻 Skills
 
 ### 👨‍💻 Programming Languages
 
@@ -71,13 +43,12 @@ B.Tech Computer Science Engineering Student | Chitkara University
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
 
 ---
 
-
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
 - 📘 Data Structures & Algorithms
 - ☕ Object-Oriented Programming (Java)
@@ -87,7 +58,7 @@ B.Tech Computer Science Engineering Student | Chitkara University
 
 ---
 
-# 🎯 Goals
+## 🎯 Goals
 
 - ✅ Improve problem-solving skills
 - ✅ Build Full Stack Web Projects
@@ -97,7 +68,7 @@ B.Tech Computer Science Engineering Student | Chitkara University
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 📧 **Email:** **hemendrasingh88745@gmail.com**
 
@@ -105,7 +76,9 @@ B.Tech Computer Science Engineering Student | Chitkara University
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
-<br><br>
-<img src="https://komarev.com/ghpvc/?username=yash745-ul&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=yash745-ul&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
